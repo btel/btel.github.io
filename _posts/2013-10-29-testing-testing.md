@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
-Maybe it is not as easy as I thought.
+![](/_images/logo.gif)Maybe it is not as easy as I thought.
